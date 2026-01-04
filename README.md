@@ -3,7 +3,7 @@
   <img src="images/pix.jpg" alt="headshot" width="200"/>
 </p>
 
-I am a geospatial data analyst with a focus on environmental monitoring, water quality, and public health applications. My work integrates **GIS, remote sensing, and data science** to address environmental hazards and promote sustainable resource management.
+I am a geospatial data analyst specializing in environmental monitoring, water quality, and public health applications. My work integrates **GIS, remote sensing, and data science** to address environmental hazards and promote sustainable resource management.
 
 ---
 
@@ -38,4 +38,5 @@ I am a geospatial data analyst with a focus on environmental monitoring, water q
 - **Email:** [grnwachukwu@yahoo.com](mailto:grnwachukwu@yahoo.com)  
 - **LinkedIn:** [Grace Nwachukwu](https://www.linkedin.com/in/grace-nwachukwu-66437221a)  
 - **GitHub:** [https://github.com/Gracey0201](https://github.com/Gracey0201)  
+
 
